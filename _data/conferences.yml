@@ -55,7 +55,7 @@
   start: 2024-09-02
   end: 2024-09-06
   sub: HCI
-  note: "Rebuttal period: June 3-7, 2024; Notification: June 18, 2024<br> ✏️ = Min"
+  note: "Rebuttal period: June 3-7, 2024; Notification: June 18, 2024<br> ✏️ = Min, Shawal, Arpit"
 
 - title: CHASE
   full_name: International Conference on Cooperative and Human Aspects of Software Engineering
@@ -144,7 +144,7 @@
   place: Barcelona, Spain
   date: October 20-25, 2024
   sub: SE
-  note: "Notification: June 20, 2024<br>✏️ = Lucas [GDPR]?"
+  note: "Notification: June 20, 2024<br>✏️ = Lucas, Xiaoxiao?"
 
 - title: FAccT
   full_name: ACM Conference on Fairness, Accountability, and Transparency
@@ -223,17 +223,17 @@
   sub: HCI
   note: "Notification: March 22, 2024<br>✏️ = Swanand?"
 
-- title: EASE WS
-  full_name: Evaluation and Assessment in Software Engineering Workshops
+- title: Secure Software
+  full_name: Workshop on Secure Software
   year: 2024
-  id: ease-ws
-  link: https://conf.researchr.org/track/ease-2024/ease-2024-workshops#Accepted-Workshops
+  id: secure-software
+  link: http://www.softwareengineeringresearch.net/SSW24/index.html
   deadline: '2024-03-08 23:59:59'
   timezone: UTC-12
   place: Salerno, Italy
-  date: June 18–21, 2024
+  date: June 21, 2024
   sub: SE
-  note: "Notification: April 12, 2024<br>✏️ = Arpit?"
+  note: "Notification: April 12, 2024<br>✏️ = Arpit"
 
 - title: L@S WIP
   full_name: Learning at Scale, Work-in-Progress track
@@ -252,25 +252,13 @@
   year: 2024
   id: ls
   link: https://learningatscale.hosting.acm.org/las2024/
-  deadline: '2024-02-12 23:59:59'
+  deadline: '2024-02-16 23:59:59'
   abstract_deadline: '2024-02-05 23:59:59'
   timezone: UTC-12
   place: Atlanta, GA, USA
   date: July 15-19, 2024
   sub: ED
   note: "Notification:</b> April 8, 2024 <br>✏️ = Tianjia"
-
-- title: RecSys
-  year: 2024
-  id: recsys
-  link: https://recsys.acm.org/recsys24
-  deadline: '2024-04-29 23:59:59'
-  abstract_deadline: '2024-04-22 23:59:59'
-  timezone: UTC-12
-  date: October 14-18, 2024
-  place: Bari, Italy
-  sub: DM
-  note: "Rebuttal: June 10-17, 2024; Notification: July 22; 2024"
   
 - title: UIST
   year: 2024
@@ -282,7 +270,7 @@
   place: Pittsburg, PA, USA
   date: October 13-16, 2023
   sub: HCI
-  note: "Notification: TBD"
+  note: "Rebuttal: June 3-12, 2024; Notification: June 29, 2024<br>✏️ = Yi [Sang]"
 
 - title: IUI
   year: 2024
@@ -307,3 +295,26 @@
   date: May 07-11, 2024
   sub: ML
   note: Mandatory abstract deadline on September 23, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
+
+- title: ISMAR
+  year: 2024
+  id: ismar
+  link: https://ieeeismar.org/cfp/
+  deadline: '2024-05-08 23:59:59'
+  abstract_deadline: '2024-05-03 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: May 07-11, 2024
+  sub: ML
+  note: "Rebuttal: June 21-28, 2024; Notification: July 14, 2024<br>✏️ = Dibyendu"
+
+- title: IEEE Blockchain
+  year: 2024
+  id: ieee-blockchain
+  link: https://ieee-cybermatics.org/2024/blockchain/index.php
+  deadline: '2024-03-15 23:59:59'
+  timezone: UTC-12
+  place: Copenhagen, Denmark
+  date: August 19-22, 2024
+  sub: MISC
+  note: "Notification: May 20, 2024<br>✏️ = Shawal"
