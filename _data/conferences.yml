@@ -10,7 +10,7 @@
   place: Ottowa, Ontario, Canada
   date: April 26 - May 4, 2025
   sub: SE
-  note: "First of two cycles; Author Response period: June 11-13, 2024; Notification: July 5, 2024<br>✏️ = Min"
+  note: "First of two cycles; Author Response period: June 11-13, 2024; Notification: July 5, 2024"
 
 - title: ASE
   full_name: Automated Software Engineering
@@ -209,7 +209,7 @@
   place: Murfreesboro, TN, USA
   date: May 29 - June 1, 2024
   sub: HCI
-  note: "Notification: March 8, 2024<br>✏️ = Swanand?"
+  note: "Notification: March 8, 2024"
 
 - title: CHIWORK
   full_name: ACM Symposium on Human-Computer Interaction for Work
@@ -221,7 +221,7 @@
   place: Newcastle, UK
   date: June 25-27, 2024
   sub: HCI
-  note: "Notification: March 22, 2024<br>✏️ = Swanand?"
+  note: "Notification: March 22, 2024<br>✏️ = Swanand"
 
 - title: Secure Software
   full_name: Workshop on Secure Software
@@ -305,7 +305,7 @@
   timezone: UTC-12
   place: Vienna, Austria
   date: May 07-11, 2024
-  sub: ML
+  sub: HCI
   note: "Rebuttal: June 21-28, 2024; Notification: July 14, 2024<br>✏️ = Dibyendu"
 
 - title: IEEE Blockchain

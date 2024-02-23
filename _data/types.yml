@@ -11,7 +11,7 @@
 - name: Machine Learning
   sub: ML
   color: "#ffd300"
-- name: Data Mining
+- name: Miscellaneous
   sub: MISC
   color: "#be0aff"
 
