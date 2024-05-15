@@ -23,24 +23,36 @@
   place: Sacramento, CA, USA
   date: October 27 - November 1, 2024
   sub: SE
-  note: "Author Response period: July 22-25, 2024; Final Decision: August 6, 2024<br>✏️ = Hunter"
+  note: "Author Response period: July 22-25, 2024; Final Decision: August 6, 2024"
 
 - title: FSE
   full_name: ACM International Conference on the Foundations of Software Engineering
-  year: 2024
+  year: 2025
   id: fse
-  link: https://2024.esec-fse.org/
-  deadline: '2023-09-28 23:59:59'
-  abstract_deadline: '2023-09-21 23:59:59'
+  link: https://conf.researchr.org/home/fse-2025
+  deadline: '2024-09-12 23:59:59'
+  abstract_deadline: '2024-09-05 23:59:59'
   timezone: UTC-12
-  date: July 15–19, 2024
-  start: 2024-07-15
-  end: 2024-07-19
-  place: Porto de Galinhas, Brazil
+  date: June 23-27, 2025
+  start: 2025-06-23
+  end: 2025-06-27
+  place: Trondheim, Norway
   sub: SE
-  note: "Author Response period: Dec 11-13, 2023; Notification: Jan 23, 2024"
+  note: "Author Response period: Nov 22-26; Notification: Jan 14"
 
 ############### Targeted conferences ########################
+
+- title: ASE RENE
+  full_name: Automated Software Engineering Replications and Negative Results
+  year: 2024
+  id: ase
+  link: https://conf.researchr.org/track/ase-2024/ase-2024--workshop--rene
+  deadline: '2024-08-02 23:59:00'
+  timezone: UTC-12
+  place: Sacramento, CA, USA
+  date: October 27 - November 1, 2024
+  sub: SE
+  note: "Notification: August 16<br>✏️ = Hunter?"
 
 - title: VL/HCC # B
   full_name: Visual Languages and Human-Centric Computing
@@ -59,66 +71,66 @@
 
 - title: CHASE
   full_name: International Conference on Cooperative and Human Aspects of Software Engineering
-  year: 2024
+  year: 2025
   id: chase
-  link: https://conf.researchr.org/track/chase-2024/chase-2024-full-papers
-  deadline: '2023-11-10 23:59:59'
-  abstract_deadline: '2023-11-01 23:59:59'
+  link: https://conf.researchr.org/home/chase-2025
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
   timezone: UTC-12
-  place: Lisbon, Portugal
-  date: April 14-15, 2024
+  place: Ottowa, Canada
+  date: TBD
   sub: SE
-  note: "Notification: Jan 12, 2024"
+  note: ""
 
 - title: CSCW # A
   full_name: Computer-Supported Cooperative Work
-  year: 2024
+  year: 2025
   id: cscw
-  link: https://cscw.acm.org/2024/
-  deadline: '2024-01-16 23:59:59'
+  link: TBD
+  deadline: '2024-07-16 23:59:59'
   timezone: UTC-12
   place: San José, Costa Rica
-  date: November 9-13, 2024
+  date: TBD
   sub: HCI
-  note: "This is the January cycle."
+  note: "This is the July cycle."
 
 - title: MSR # A
   full_name: Mining Software Repositories
-  year: 2024
+  year: 2025
   id: msr
-  link: https://2024.msrconf.org/
-  deadline: '2023-11-17 23:59:59'
-  abstract_deadline: '2023-11-14 23:59:59'
+  link: https://2025.msrconf.org/
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
   timezone: UTC-12
-  place: Lisbon, Portugal
-  date: April 15-16, 2024
+  place: Ottowa, Canada
+  date: TBD
   sub: SE
   note: "Rebuttal: ; Notification: ;"
 
 - title: ISSTA # A
   full_name: International Symposium on Software Testing and Analysis
-  year: 2024
+  year: 2025
   id: issta
   link: https://conf.researchr.org/home/issta-2024
-  deadline: '2024-04-12 23:59:59'
+  deadline: '2024-10-31 23:59:59'
   timezone: UTC-12
-  place: Vienna, Austria
-  date: September 16-20, 2024
+  place: Trondheim, Norway
+  date: June 25-28, 2025
   sub: SE
-  note: "Second of two cycles. Author Response: June 11-13, 2024; Notification: July 3, 2024;"
+  note: "Initial Notification: Dec 19; Major Revisions: Feb 27; Final Notification: March 31"
 
 - title: ICST # A
   full_name: International Conference on Software Testing, Verification and Validation
-  year: 2024
+  year: 2025
   id: icst
-  link: https://conf.researchr.org/home/icst-2024
-  deadline: '2023-10-25 23:59:59'
-  abstract_deadline: '2023-10-18 23:59:59'
+  link: https://conf.researchr.org/home/icst-2025
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
   timezone: UTC-12
   place: Toronto, Canada
   date: May 27-31, 2024
   sub: SE
-  note: "Notification: Dec 6, 2023;"
+  note: ""
 
 - title: EASE # A
   full_name: Evaluation and Assessment in Software Engineering
@@ -173,55 +185,32 @@
   note: Mandatory abstract deadline on Sep 07, 2023, and paper deadline on Sep 14, 2023. More info <a href='https://chi2024.acm.org/'>here</a>.
 
 - title: SIGCSE # A
-  year: 2024
+  year: 2025
   id: sigcse
   full_name: ACM Special Interest Group on Computer Science Education
-  link: https://sigcse2024.sigcse.org/
-  deadline: '2023-08-18 23:59:59'
-  abstract_deadline: '2023-08-11 23:59:59'
+  link: https://sigcse2025.sigcse.org/
+  deadline: '2024-07-21 23:59:59'
+  abstract_deadline: '2024-07-14 23:59:59'
   timezone: UTC-12
-  place: Portland, OR, USA
-  date: March 20-23, 2024
+  place: Pittsburgh, PA, USA
+  date: Feb 26-Mar 1, 2024
   sub: ED
-  note: "Notification: ;"
+  note: "Notification: TBD<br>✏️ = Tianjia?"
+
+- title: SIGCSE Virtual
+  year: 2024
+  id: sigcse
+  full_name: ACM Virtual Global Computing Education Conference
+  link: https://sigcsevirtual.acm.org/
+  deadline: '2024-05-27 23:59:59'
+  abstract_deadline: '2024-05-20 23:59:59'
+  timezone: UTC-12
+  place: Virtual
+  date: Dec 5-8, 2024
+  sub: ED
+  note: "Notification: June 24<br>✏️ = Tianjia?"
 
 ############### Miscellaneous conferences, workshops, etc. ########################
-
-- title: SE2030
-  full_name: Software Engineering in 2030 in conjunction with FSE 2024
-  year: 2024
-  id: se2030
-  link: https://conf.researchr.org/home/2030-se
-  deadline: '2024-03-29 23:59:59'
-  timezone: UTC-12
-  place: Porto de Galinhas, Brazil
-  date: April 26 - May 4, 2025
-  sub: SE
-  note: "Notification: April 26, 2024; TOSEM Extension: September 30, 2024<br>✏️ = Chris"
-
-- title: CPR
-  full_name: ACM SIGMIS Computers and People Research
-  year: 2024
-  id: cpr
-  link: https://sigmis.org/cpr/
-  deadline: '2024-02-05 23:59:59'
-  timezone: UTC-12
-  place: Murfreesboro, TN, USA
-  date: May 29 - June 1, 2024
-  sub: HCI
-  note: "Notification: March 8, 2024"
-
-- title: CHIWORK
-  full_name: ACM Symposium on Human-Computer Interaction for Work
-  year: 2024
-  id: chiwork
-  link: https://chiwork.org/
-  deadline: '2024-02-09 23:59:59'
-  timezone: UTC-12
-  place: Newcastle, UK
-  date: June 25-27, 2024
-  sub: HCI
-  note: "Notification: March 22, 2024<br>✏️ = Swanand"
 
 - title: Secure Software
   full_name: Workshop on Secure Software
@@ -234,67 +223,6 @@
   date: June 21, 2024
   sub: SE
   note: "Notification: April 12, 2024<br>✏️ = Arpit"
-
-- title: L@S WIP
-  full_name: Learning at Scale, Work-in-Progress track
-  year: 2024
-  id: ls-wip
-  link: https://learningatscale.hosting.acm.org/las2024/
-  deadline: '2024-04-15 23:59:59'
-  timezone: UTC-12
-  place: Atlanta, GA, USA
-  date: July 15-19, 2024
-  sub: ED
-  note: "Notification: May 6, 2024<br>✏️ = Sean (SE Gap Awareness)"
-
-- title: L@S
-  full_name: Learning at Scale
-  year: 2024
-  id: ls
-  link: https://learningatscale.hosting.acm.org/las2024/
-  deadline: '2024-02-16 23:59:59'
-  abstract_deadline: '2024-02-05 23:59:59'
-  timezone: UTC-12
-  place: Atlanta, GA, USA
-  date: July 15-19, 2024
-  sub: ED
-  note: "Notification:</b> April 8, 2024 <br>✏️ = Tianjia"
-  
-- title: UIST
-  year: 2024
-  id: uist
-  link: https://uist.acm.org/2024/
-  deadline: '2024-04-03 20:00:00'
-  abstract_deadline: '2024-03-27 20:00:00'
-  timezone: UTC
-  place: Pittsburg, PA, USA
-  date: October 13-16, 2023
-  sub: HCI
-  note: "Rebuttal: June 3-12, 2024; Notification: June 29, 2024<br>✏️ = Yi [Sang]"
-
-- title: IUI
-  year: 2024
-  id: iui
-  link: https://iui.acm.org/2024/
-  deadline: '2023-10-09 23:59:59'
-  timezone: UTC-12
-  place: Greenville, South Carolina, USA
-  date: March 18-21, 2024
-  hindex: 47
-  sub: HCI
-  note: Mandatory abstract deadline on Oct 2, 2023. More info <a href='https://iui.acm.org/2024/call_for_papers.html'>here</a>.
-
-- title: ICLR
-  year: 2024
-  id: iclr
-  link: https://iclr.cc/Conferences/2024
-  deadline: '2023-09-28 23:59:59'
-  abstract_deadline: '2023-09-23 23:59:59'
-  timezone: UTC-12
-  place: Vienna, Austria
-  date: May 07-11, 2024
-  sub: ML
-  note: Mandatory abstract deadline on September 23, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
 
 - title: ISMAR
   year: 2024
@@ -329,4 +257,4 @@
   place: Liverpool, UK
   date: September 5-6, 2024
   sub: MISC
-  note: "Notification: July 1, 2024"
+  note: "Notification: July 1, 2024<br>✏️ = Yoseph"
