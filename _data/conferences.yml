@@ -45,7 +45,7 @@
 - title: ASE RENE
   full_name: Automated Software Engineering Replications and Negative Results
   year: 2024
-  id: ase
+  id: ase-rene
   link: https://conf.researchr.org/track/ase-2024/ase-2024--workshop--rene
   deadline: '2024-08-02 23:59:00'
   timezone: UTC-12
@@ -195,11 +195,11 @@
   place: Pittsburgh, PA, USA
   date: Feb 26-Mar 1, 2024
   sub: ED
-  note: "Notification: TBD<br>✏️ = Tianjia?"
+  note: "Notification: TBD"
 
 - title: SIGCSE Virtual
   year: 2024
-  id: sigcse
+  id: sigcse-virtual
   full_name: ACM Virtual Global Computing Education Conference
   link: https://sigcsevirtual.acm.org/
   deadline: '2024-05-27 23:59:59'
