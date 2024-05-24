@@ -69,18 +69,18 @@
   sub: HCI
   note: "Rebuttal period: June 3-7, 2024; Notification: June 18, 2024<br> ✏️ = Min, Shawal, Arpit, Swanand, [HCI group]"
 
-- title: CHASE
-  full_name: International Conference on Cooperative and Human Aspects of Software Engineering
-  year: 2025
-  id: chase
-  link: https://conf.researchr.org/home/chase-2025
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
-  timezone: UTC-12
-  place: Ottowa, Canada
-  date: TBD
-  sub: SE
-  note: ""
+# - title: CHASE
+#   full_name: International Conference on Cooperative and Human Aspects of Software Engineering
+#   year: 2025
+#   id: chase
+#   link: https://conf.researchr.org/home/chase-2025
+#   deadline: 'TBD'
+#   abstract_deadline: 'TBD'
+#   timezone: UTC-12
+#   place: Ottowa, Canada
+#   date: TBD
+#   sub: SE
+#   note: ""
 
 - title: CSCW # A
   full_name: Computer-Supported Cooperative Work
@@ -94,18 +94,18 @@
   sub: HCI
   note: "This is the July cycle."
 
-- title: MSR # A
-  full_name: Mining Software Repositories
-  year: 2025
-  id: msr
-  link: https://2025.msrconf.org/
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
-  timezone: UTC-12
-  place: Ottowa, Canada
-  date: TBD
-  sub: SE
-  note: "Rebuttal: ; Notification: ;"
+# - title: MSR # A
+#   full_name: Mining Software Repositories
+#   year: 2025
+#   id: msr
+#   link: https://2025.msrconf.org/
+#   deadline: 'TBD'
+#   abstract_deadline: 'TBD'
+#   timezone: UTC-12
+#   place: Ottowa, Canada
+#   date: TBD
+#   sub: SE
+#   note: "Rebuttal: ; Notification: ;"
 
 - title: ISSTA # A
   full_name: International Symposium on Software Testing and Analysis
@@ -119,18 +119,18 @@
   sub: SE
   note: "Initial Notification: Dec 19; Major Revisions: Feb 27; Final Notification: March 31"
 
-- title: ICST # A
-  full_name: International Conference on Software Testing, Verification and Validation
-  year: 2025
-  id: icst
-  link: https://conf.researchr.org/home/icst-2025
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
-  timezone: UTC-12
-  place: Toronto, Canada
-  date: May 27-31, 2024
-  sub: SE
-  note: ""
+# - title: ICST # A
+#   full_name: International Conference on Software Testing, Verification and Validation
+#   year: 2025
+#   id: icst
+#   link: https://conf.researchr.org/home/icst-2025
+#   deadline: 'TBD'
+#   abstract_deadline: 'TBD'
+#   timezone: UTC-12
+#   place: Toronto, Canada
+#   date: May 27-31, 2024
+#   sub: SE
+#   note: ""
 
 - title: EASE # A
   full_name: Evaluation and Assessment in Software Engineering
@@ -262,7 +262,7 @@
 - title: VL/HCC Grad Consortium 
   full_name: Visual Languages and Human-Centric Computing Graduate Consortium
   year: 2024
-  id: vlhcc
+  id: vlhcc-gc
   link: https://conf.researchr.org/track/vlhcc-2024/vlhcc-2024-graduate-consortium
   deadline: '2024-05-30 23:59:59'
   timezone: UTC-12
