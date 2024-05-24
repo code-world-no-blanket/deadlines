@@ -10,7 +10,7 @@
   place: Ottowa, Ontario, Canada
   date: April 26 - May 4, 2025
   sub: SE
-  note: "Second of two cycles; Author Response period: October 7-10, 2024; Notification: Nov 1, 2024<br>✏️ = Min, Yoseph, Swanand"
+  note: "Second of two cycles; Author Response period: October 7-10, 2024; Notification: Nov 1, 2024<br>✏️ = Min, Yoseph, Swanand, Dibyendu, Hunter"
 
 - title: ASE
   full_name: Automated Software Engineering
@@ -258,3 +258,17 @@
   date: September 5-6, 2024
   sub: MISC
   note: "Notification: July 1, 2024<br>✏️ = Yoseph"
+
+- title: VL/HCC Grad Consortium 
+  full_name: Visual Languages and Human-Centric Computing Graduate Consortium
+  year: 2024
+  id: vlhcc
+  link: https://conf.researchr.org/track/vlhcc-2024/vlhcc-2024-graduate-consortium
+  deadline: '2024-05-30 23:59:59'
+  timezone: UTC-12
+  place: Liverpool, UK
+  date: September 2-6, 2024
+  start: 2024-09-02
+  end: 2024-09-06
+  sub: HCI
+  note: "Notification: July 1, 2024<br> ✏️ = Shawal, Swanand"
